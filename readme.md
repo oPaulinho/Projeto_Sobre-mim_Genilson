@@ -1,7 +1,7 @@
 
-# 💻 Projeto HTML e CSS - Alura
+# 💻 Projeto HTML e CSS - Uninter
 
-Este projeto foi desenvolvido durante meus estudos na plataforma [Alura](https://www.alura.com.br/), com foco em prática de **HTML5** e **CSS3** para construção de páginas web.
+Este projeto foi desenvolvido durante meus estudos academicos [UINTER](https://www.alura.com.br/), com foco em prática de **HTML5** e **CSS3** para construção de páginas web.
 
 ### 🔗 Acesse o projeto online:
 ➡️ https://html-css-alura-rosy.vercel.app/
