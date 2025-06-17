@@ -1,33 +1,52 @@
+# Sobre mim - Projeto Uninter
 
-# 💻 Projeto HTML e CSS - Uninter
+Este projeto foi desenvolvido como parte do trabalho acadêmico para a disciplina de Projeto Integrador no curso de Análise e Desenvolvimento de Sistemas (ADS) da Uninter.
 
-Este projeto foi desenvolvido durante meus estudos academicos [UINTER](https://www.alura.com.br/), com foco em prática de **HTML5** e **CSS3** para construção de páginas web.
-
-### 🔗 Acesse o projeto online:
-➡️ https://html-css-alura-rosy.vercel.app/
-
----
-
-## 📘 Tecnologias usadas
-
-- HTML5
-- CSS3
-- Flexbox
+Ele é baseado em um projeto anterior pessoal [HTML-CSS-Alura](https://github.com/oPaulinho/HTML-CSS-Alura), originalmente criado durante os estudos na plataforma Alura. A estrutura foi reaproveitada como ponto de partida, mas passou por diversas melhorias e adaptações para atender aos critérios da atividade acadêmica.
 
 ---
 
 ## 🎯 Objetivo
 
-Praticar:
-- Estruturação de páginas com HTML
-- Estilização com CSS
-- Layout com Flexbox
-- Responsividade
+Praticar e aplicar os conhecimentos de HTML e CSS desenvolvendo uma página pessoal simples e responsiva, abordando boas práticas de semântica, organização e design responsivo.
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🛠️ Tecnologias utilizadas
 
-Me chamo **Genilson Paulo da Silva** e estou em transição para a área de TI. Atualmente estudo Front-End na Alura e curso Análise e Desenvolvimento de Sistemas.
+- HTML5
+- CSS3
+- Flexbox
+- Git e GitHub
 
-📫 Contato: [LinkedIn](https://www.linkedin.com/in/genilson-paulo-silva)
+---
+
+## 📌 Melhorias em relação ao projeto base
+
+- Refatoração do código HTML com foco em semântica
+- Reorganização de pastas e arquivos
+- Estilização aprimorada com uso mais consistente de variáveis CSS
+- Ajustes para melhor responsividade em dispositivos móveis
+- Comentários explicativos no código
+
+---
+
+## 🚀 Publicação (em breve)
+
+O projeto será publicado utilizando GitHub Pages ou Vercel para visualização pública.
+
+---
+
+## 📚 Créditos
+
+Este projeto teve como base inicial o repositório:
+
+🔗 [HTML-CSS-Alura](https://github.com/oPaulinho/HTML-CSS-Alura)
+
+---
+
+## 🧑‍🎓 Autor
+
+Genilson Paulo da Silva  
+Curso: Análise e Desenvolvimento de Sistemas - Uninter  
+Período: 2024 - 2027
