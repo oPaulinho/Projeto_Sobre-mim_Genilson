@@ -1,9 +1,11 @@
+@import url(hearder.css);
+@import url(portfolio.css);
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --cor-primaria: #f7f4e8;
+    --cor-primaria: #f9f7f1;
     --cor-secundaria: #6bb39b;
-    --cor-terciaria: #948a71;
+    --cor-terciaria: #666155;
     --cor-quartearia: #85e6c0;
     --cor-quintenaria: #6bb39b;
 
@@ -16,28 +18,7 @@
     padding: 0;
 }
 
-.cabecalho {
-    padding: 2% 0% 0% 15%;
-}
 
-.cabecalho__menu {
-    display: flex;
-    gap: 80px;
-}
-
-.cabecalho__menu__link {
-    font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
-    font-weight: 600;
-    color: var(--cor-terciaria);
-    margin: 0 10px;
-    padding: 10px 15px;
-    text-decoration: none;
-}
-
-.cabecalho__menu__link:hover {
-    color: var(--cor-quartearia);
-}
 
 body {
     box-sizing: border-box;
@@ -105,7 +86,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 16px;
-    width: 50%;
+    width: 30%;
     text-align: center;
     border: 2px solid var(--cor-terciaria);
     border-radius: 8px;
@@ -160,6 +141,7 @@ body {
     font-size: 1.5rem;
     font-weight: 400;
 }
+
 
 @media (max-width: 1200px) {
     .cabecalho {
