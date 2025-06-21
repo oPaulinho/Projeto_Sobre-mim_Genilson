@@ -31,9 +31,9 @@ Praticar e aplicar os conhecimentos de HTML e CSS desenvolvendo uma página pess
 
 ---
 
-## 🚀 Publicação (em breve)
+## 🚀 Publicação 
 
-O projeto será publicado utilizando GitHub Pages ou Vercel para visualização pública.
+https://sobre-mim-uninter-genilson-paulo-da-silvas-projects.vercel.app/
 
 ---
 
